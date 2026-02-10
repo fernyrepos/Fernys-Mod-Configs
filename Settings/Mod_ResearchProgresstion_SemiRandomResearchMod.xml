@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="CM_Semi_Random_Research.SemiRandomResearchModSettings">
+		<availableProjectCount>10</availableProjectCount>
+		<maxProjectCount>10</maxProjectCount>
+		<progressAddsChoice>Never</progressAddsChoice>
+		<experimentalAnomalySupport>True</experimentalAnomalySupport>
+	</ModSettings>
+</SettingsBlock>

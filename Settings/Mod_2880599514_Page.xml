@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="RimNauts2.Settings.Container">
+		<asteroid_ore_verbose>True</asteroid_ore_verbose>
+		<incident_patch>True</incident_patch>
+		<allow_raids_on_neos>True</allow_raids_on_neos>
+		<allow_quests_on_neos>True</allow_quests_on_neos>
+	</ModSettings>
+</SettingsBlock>

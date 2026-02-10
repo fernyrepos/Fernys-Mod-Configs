@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="MortarAccuracy.Settings">
+		<shootingAffectsMortarAccuracy>True</shootingAffectsMortarAccuracy>
+		<maxSkillSpreadReduction>0.8057511</maxSkillSpreadReduction>
+		<minSkillSpreadReduction>-0.4</minSkillSpreadReduction>
+	</ModSettings>
+</SettingsBlock>

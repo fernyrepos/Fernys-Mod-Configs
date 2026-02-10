@@ -1,0 +1,1012 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="RimworldPlaylistMod.Src.Classes.Settings">
+		<widgetPosition>(1699.0, 34.0)</widgetPosition>
+		<windowPosition>(610.0, 240.0)</windowPosition>
+		<songOverrideDict>
+			<keys>
+				<li>Passenger</li>
+				<li>Music_FinalMission/VE_Rimworld_-_Lone_Wolf_Loop</li>
+				<li>Songs/Relax/Ice_Shaman</li>
+				<li>Trust_Me</li>
+				<li>Rimmas</li>
+				<li>Songs/Relax/Moon_Harvest</li>
+				<li>Songs/Relax/Cruel_Sunrise</li>
+				<li>A_New_Night</li>
+				<li>Back_in_the_Saddle</li>
+				<li>Songs/Relax/Noodles_Starscape/Noodle_Starscape_b</li>
+				<li>Rise</li>
+				<li>Solar_Flare_Flamenco</li>
+				<li>Triumph</li>
+				<li>Blue</li>
+				<li>Serene_Night</li>
+				<li>Fair_Glade</li>
+				<li>Songs/Relax/Rough_Trail</li>
+				<li>Muffalo</li>
+				<li>Songs/Relax/Detatched_Viewpoint</li>
+				<li>Hold_On</li>
+				<li>Songs/Relax/Noodles_Planetfall/Noodle_Planetfall_b</li>
+				<li>Songs/Relax/Noodles_Starscape/Noodle_Starscape_f</li>
+				<li>Songs/Relax/Seasons_Turn</li>
+				<li>Stay_Strong</li>
+				<li>Venerian_Cycle</li>
+				<li>Songs/Relax/Ceta</li>
+				<li>Songs/Relax/What_Gravity</li>
+				<li>Songs/Relax/Alignment</li>
+				<li>Songs/Tension/Chaos_Bringer</li>
+				<li>Tough_Life</li>
+				<li>Strange_Feeling</li>
+				<li>Songs/Relax/Night_And_Day</li>
+				<li>Everythings_Going_to_Be_Okay</li>
+				<li>Music_Stealth/VE_Rimworld_-_Defuse</li>
+				<li>Ate_Without_Table</li>
+				<li>Music_Stealth/VE_Rimworld_-_Side_Door</li>
+				<li>Far_Away</li>
+				<li>Songs/Horror_Combat/Spent_Introject</li>
+				<li>Songs/Horror_Relax/Shamblers_Blues</li>
+				<li>We_Will</li>
+				<li>Music_Stealth/VE_Rimworld_-_Alpha_Team_Go</li>
+				<li>Songs/Horror_Tension/Have_They_Come_For_Us</li>
+				<li>Rough_Trail_(Reprise)</li>
+				<li>Ambition</li>
+				<li>Outlaw</li>
+				<li>Serenity</li>
+				<li>Valiant</li>
+				<li>Move</li>
+				<li>Songs/Relax/Noodles_Planetfall/Noodle_Planetfall_d</li>
+				<li>One_Thousand_Stars</li>
+				<li>Songs/Relax/Succession</li>
+				<li>Songs/Relax/Architect</li>
+				<li>Songs/Relax/Information_Entropy</li>
+				<li>Alive</li>
+				<li>Songs/Relax/Noodles_Mirage/Noodle_Mirage_e</li>
+				<li>Songs/Misc/End_Credits_Song</li>
+				<li>Legacy</li>
+				<li>Back_to_Work</li>
+				<li>Lovely_Day</li>
+				<li>Carry_On</li>
+				<li>Spacekattommy</li>
+				<li>On_the_Road</li>
+				<li>Songs/Horror_Relax/Abandoned_By_The_Light</li>
+				<li>Songs/Relax/Gathering_In</li>
+				<li>Ambience/MetalHell/MetalHell_Ambience_Loop_B_Stereo</li>
+				<li>Bright_Side_of_Life</li>
+				<li>Songs/Horror_Relax/A_Twisted_Path</li>
+				<li>Ibex_Shaman</li>
+				<li>Songs/Relax/Alpaca</li>
+				<li>Songs/Relax/Noodles_Starscape/Noodle_Starscape_e</li>
+				<li>Songs/Tension/Baselius</li>
+				<li>Songs/Relax/On_The_Surface</li>
+				<li>Songs/Relax/A_New_Day</li>
+				<li>Sunlight</li>
+				<li>Nimbostratus</li>
+				<li>Songs/Relax/Believe</li>
+				<li>Final_Stand</li>
+				<li>Rimraid</li>
+				<li>Protect_Our_Home</li>
+				<li>A_Place_of_Our_Own</li>
+				<li>Songs/Relax/Tribal_Assembly</li>
+				<li>Songs/Relax/Noodles_Starscape/Noodle_Starscape_c</li>
+				<li>Songs/Relax/Noodles_Planetfall/Noodle_Planetfall_a</li>
+				<li>Songs/Tension/Riding_Out</li>
+				<li>Songs/Relax/Traces</li>
+				<li>Dust_Clouds_Rolling</li>
+				<li>Lone_Hunter</li>
+				<li>Songs/Relax/Moving_On</li>
+				<li>Songs/Horror_Combat/They_See_You</li>
+				<li>Songs/Horror_Relax/Blood_Rain_Falling</li>
+				<li>Songs/Corpse_Attack</li>
+				<li>The_Fallen</li>
+				<li>Never_Forgotten</li>
+				<li>Stellar_Clockwork</li>
+				<li>Rustic_Ranching</li>
+				<li>Songs/Relax/Noodles_Starscape/Noodle_Starscape_d</li>
+				<li>Songs/Tension/Close_The_Gates</li>
+				<li>Songs/Horror_Tension/Is_It_Truly_Alive</li>
+				<li>Long_Way_Home</li>
+				<li>Solitude</li>
+				<li>What_We_Once_Had</li>
+				<li>Simple_Life</li>
+				<li>Songs/Misc/ArchonexusEndCredits</li>
+				<li>Songs/Relax/Space_Junk</li>
+				<li>Bramble_Blast</li>
+				<li>Songs/Relax/String_Theory</li>
+				<li>Songs/Tension/Dont_Freeze_Up</li>
+				<li>Songs/Relax/These_Lands</li>
+				<li>Songs/Horror_Combat/Shadow_Work</li>
+				<li>Songs/Relax/Noodles_Mirage/Noodle_Mirage_b</li>
+				<li>Songs/Relax/Block_Universe</li>
+				<li>Songs/Relax/Barnstar</li>
+				<li>Songs/Relax/Fealty</li>
+				<li>Songs/Relax/Noodles_Planetfall/Noodle_Planetfall_c</li>
+				<li>Songs/Relax/Jovian_Cycle</li>
+				<li>Songs/Relax/Terraformer</li>
+				<li>Inferno_Shaman</li>
+				<li>Songs/Relax/Noodles_Mirage/Noodle_Mirage_c</li>
+				<li>Songs/Relax/Noodles_Starscape/Noodle_Starscape_a</li>
+				<li>Cruel_World</li>
+				<li>Code_Red</li>
+				<li>One_Can_Dream_to_Fly</li>
+				<li>Honor</li>
+				<li>My_Friend</li>
+				<li>Songs/Horror_Combat/Death_Pall_Rising</li>
+				<li>Songs/Relax/Mind_Map</li>
+				<li>Songs/Relax/Noodles_Mirage/Noodle_Mirage_d</li>
+				<li>Songs/Anomaly_End_Credits</li>
+				<li>Songs/Relax/I_Like_It_Here</li>
+				<li>Post_Simian</li>
+				<li>Ivy_Shaman</li>
+				<li>United</li>
+				<li>Music_DivineInferno/VE_Rimworld_-_DivineInferno</li>
+				<li>Slings_And_Sniper_Rifles</li>
+				<li>Songs/Tension/Here_It_Comes</li>
+				<li>Songs/Relax/Noodles_Planetfall/Noodle_Planetfall_e</li>
+				<li>Songs/Relax/Meditate</li>
+				<li>Songs/Entry/Entry_Ambience_Full</li>
+			</keys>
+			<values>
+				<li>
+					<name>Passenger</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>0.7</volume>
+				</li>
+				<li>
+					<name>VE Rimworld - Lone Wolf Loop</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>0.8</volume>
+				</li>
+				<li>
+					<name>Ice Shaman</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<isSpring>False</isSpring>
+					<isSummer>False</isSummer>
+					<isAutumn>False</isAutumn>
+					<isPermaSummer>False</isPermaSummer>
+					<isPermaWinter>False</isPermaWinter>
+					<volume>0.97</volume>
+				</li>
+				<li>
+					<name>Trust Me</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>0.7</volume>
+				</li>
+				<li>
+					<name>Rimmas</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<isSpring>False</isSpring>
+					<isSummer>False</isSummer>
+					<isAutumn>False</isAutumn>
+					<isPermaSummer>False</isPermaSummer>
+					<isPermaWinter>False</isPermaWinter>
+					<volume>0.7</volume>
+				</li>
+				<li>
+					<name>Moon Harvest</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>1.04</volume>
+				</li>
+				<li>
+					<name>Cruel Sunrise</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>0.98</volume>
+				</li>
+				<li>
+					<name>A New Night</name>
+					<isNight>True</isNight>
+					<volume>0.95</volume>
+				</li>
+				<li>
+					<name>Back in the Saddle</name>
+					<isTense>True</isTense>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>0.7</volume>
+				</li>
+				<li>
+					<name>Noodle Starscape b</name>
+					<isNight>True</isNight>
+					<volume>1</volume>
+				</li>
+				<li>
+					<name>Rise</name>
+					<isDay>True</isDay>
+					<volume>0.7</volume>
+				</li>
+				<li>
+					<name>Solar Flare Flamenco</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<isWinter>False</isWinter>
+					<isPermaSummer>False</isPermaSummer>
+					<isPermaWinter>False</isPermaWinter>
+					<volume>0.8</volume>
+				</li>
+				<li>
+					<name>Triumph</name>
+					<isTense>True</isTense>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>0.7</volume>
+				</li>
+				<li>
+					<name>Blue</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>0.7</volume>
+				</li>
+				<li>
+					<name>Serene Night</name>
+					<isNight>True</isNight>
+					<volume>0.7</volume>
+				</li>
+				<li>
+					<name>Fair Glade</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>0.7</volume>
+				</li>
+				<li>
+					<name>Rough Trail</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>1</volume>
+				</li>
+				<li>
+					<name>Muffalo</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>0.7</volume>
+				</li>
+				<li>
+					<name>Detatched Viewpoint</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>1</volume>
+				</li>
+				<li>
+					<name>Hold On</name>
+					<isTense>True</isTense>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>0.6</volume>
+				</li>
+				<li>
+					<name>Noodle Planetfall b</name>
+					<isDay>True</isDay>
+					<volume>0.65</volume>
+				</li>
+				<li>
+					<name>Noodle Starscape f</name>
+					<isNight>True</isNight>
+					<volume>1</volume>
+				</li>
+				<li>
+					<name>Seasons Turn</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>1</volume>
+				</li>
+				<li>
+					<name>Stay Strong</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>0.7</volume>
+				</li>
+				<li>
+					<name>Venerian Cycle</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>0.7</volume>
+				</li>
+				<li>
+					<name>Ceta</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>1.05</volume>
+				</li>
+				<li>
+					<name>What Gravity</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>1</volume>
+				</li>
+				<li>
+					<name>Alignment</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>0.9</volume>
+				</li>
+				<li>
+					<name>Chaos Bringer</name>
+					<isTense>True</isTense>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>1</volume>
+				</li>
+				<li>
+					<name>Tough Life</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>0.7</volume>
+				</li>
+				<li>
+					<name>Strange Feeling</name>
+					<isNight>True</isNight>
+					<volume>0.8</volume>
+				</li>
+				<li>
+					<name>Night And Day</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>0.97</volume>
+				</li>
+				<li>
+					<name>Everythings Going to Be Okay</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>0.7</volume>
+				</li>
+				<li>
+					<name>VE Rimworld - Defuse</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>0.8</volume>
+				</li>
+				<li>
+					<name>Ate Without Table</name>
+					<isTense>True</isTense>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>0.7</volume>
+				</li>
+				<li>
+					<name>VE Rimworld - Side Door</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>0.8</volume>
+				</li>
+				<li>
+					<name>Far Away</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>0.7</volume>
+				</li>
+				<li>
+					<name>Spent Introject</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>1</volume>
+				</li>
+				<li>
+					<name>Shamblers Blues</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>1</volume>
+				</li>
+				<li>
+					<name>We Will</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>0.7</volume>
+				</li>
+				<li>
+					<name>VE Rimworld - Alpha Team Go</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>0.8</volume>
+				</li>
+				<li>
+					<name>Have They Come For Us</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>1</volume>
+				</li>
+				<li>
+					<name>Rough Trail (Reprise)</name>
+					<isTense>True</isTense>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>0.4</volume>
+				</li>
+				<li>
+					<name>Ambition</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>0.6</volume>
+				</li>
+				<li>
+					<name>Outlaw</name>
+					<isTense>True</isTense>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>0.7</volume>
+				</li>
+				<li>
+					<name>Serenity</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>0.6</volume>
+				</li>
+				<li>
+					<name>Valiant</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>0.7</volume>
+				</li>
+				<li>
+					<name>Move</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>0.7</volume>
+				</li>
+				<li>
+					<name>Noodle Planetfall d</name>
+					<isDay>True</isDay>
+					<volume>0.65</volume>
+				</li>
+				<li>
+					<name>One Thousand Stars</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>0.7</volume>
+				</li>
+				<li>
+					<name>Succession</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>1</volume>
+				</li>
+				<li>
+					<name>Architect</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>1.04</volume>
+				</li>
+				<li>
+					<name>Information Entropy</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>1</volume>
+				</li>
+				<li>
+					<name>Alive</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>0.7</volume>
+				</li>
+				<li>
+					<name>Noodle Mirage e</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>1</volume>
+				</li>
+				<li>
+					<name>End Credits Song</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>1.05</volume>
+				</li>
+				<li>
+					<name>Legacy</name>
+					<isTense>True</isTense>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>0.7</volume>
+				</li>
+				<li>
+					<name>Back to Work</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>0.8</volume>
+				</li>
+				<li>
+					<name>Lovely Day</name>
+					<isDay>True</isDay>
+					<volume>0.7</volume>
+				</li>
+				<li>
+					<name>Carry On</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>0.7</volume>
+				</li>
+				<li>
+					<name>Spacekattommy</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>0.7</volume>
+				</li>
+				<li>
+					<name>On the Road</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>0.7</volume>
+				</li>
+				<li>
+					<name>Abandoned By The Light</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>1</volume>
+				</li>
+				<li>
+					<name>Gathering In</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>1</volume>
+				</li>
+				<li>
+					<name>MetalHell Ambience Loop B Stereo</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>1</volume>
+				</li>
+				<li>
+					<name>Bright Side of Life</name>
+					<isDay>True</isDay>
+					<volume>0.7</volume>
+				</li>
+				<li>
+					<name>A Twisted Path</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>1</volume>
+				</li>
+				<li>
+					<name>Ibex Shaman</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<isSpring>False</isSpring>
+					<isSummer>False</isSummer>
+					<isWinter>False</isWinter>
+					<isPermaSummer>False</isPermaSummer>
+					<isPermaWinter>False</isPermaWinter>
+				</li>
+				<li>
+					<name>Alpaca</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>0.98</volume>
+				</li>
+				<li>
+					<name>Noodle Starscape e</name>
+					<isNight>True</isNight>
+					<volume>1</volume>
+				</li>
+				<li>
+					<name>Baselius</name>
+					<isTense>True</isTense>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>1</volume>
+				</li>
+				<li>
+					<name>On The Surface</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>1</volume>
+				</li>
+				<li>
+					<name>A New Day</name>
+					<isDay>True</isDay>
+					<volume>0.7</volume>
+				</li>
+				<li>
+					<name>Sunlight</name>
+					<isDay>True</isDay>
+					<volume>0.7</volume>
+				</li>
+				<li>
+					<name>Nimbostratus</name>
+					<isTense>True</isTense>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>0.7</volume>
+				</li>
+				<li>
+					<name>Believe</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>1</volume>
+				</li>
+				<li>
+					<name>Final Stand</name>
+					<isTense>True</isTense>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>0.9</volume>
+				</li>
+				<li>
+					<name>Rimraid</name>
+					<isTense>True</isTense>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>0.9</volume>
+				</li>
+				<li>
+					<name>Protect Our Home</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>0.7</volume>
+				</li>
+				<li>
+					<name>A Place of Our Own</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>0.7</volume>
+				</li>
+				<li>
+					<name>Tribal Assembly</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>0.95</volume>
+				</li>
+				<li>
+					<name>Noodle Starscape c</name>
+					<isNight>True</isNight>
+					<volume>1</volume>
+				</li>
+				<li>
+					<name>Noodle Planetfall a</name>
+					<isDay>True</isDay>
+					<volume>0.65</volume>
+				</li>
+				<li>
+					<name>Riding Out</name>
+					<isTense>True</isTense>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>0.7</volume>
+				</li>
+				<li>
+					<name>Traces</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>1</volume>
+				</li>
+				<li>
+					<name>Dust Clouds Rolling</name>
+					<isTense>True</isTense>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>0.8</volume>
+				</li>
+				<li>
+					<name>Lone Hunter</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>0.7</volume>
+				</li>
+				<li>
+					<name>Moving On</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>1</volume>
+				</li>
+				<li>
+					<name>They See You</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>1</volume>
+				</li>
+				<li>
+					<name>Blood Rain Falling</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>1</volume>
+				</li>
+				<li>
+					<name>Corpse Attack</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>1</volume>
+				</li>
+				<li>
+					<name>The Fallen</name>
+					<isNight>True</isNight>
+					<volume>0.9</volume>
+				</li>
+				<li>
+					<name>Never Forgotten</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>0.7</volume>
+				</li>
+				<li>
+					<name>Stellar Clockwork</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>0.8</volume>
+				</li>
+				<li>
+					<name>Rustic Ranching</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>0.7</volume>
+				</li>
+				<li>
+					<name>Noodle Starscape d</name>
+					<isNight>True</isNight>
+					<volume>1</volume>
+				</li>
+				<li>
+					<name>Close The Gates</name>
+					<isTense>True</isTense>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>1</volume>
+				</li>
+				<li>
+					<name>Is It Truly Alive</name>
+					<isEnabled>False</isEnabled>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>1</volume>
+				</li>
+				<li>
+					<name>Long Way Home</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>0.7</volume>
+				</li>
+				<li>
+					<name>Solitude</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>0.6</volume>
+				</li>
+				<li>
+					<name>What We Once Had</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>0.6</volume>
+				</li>
+				<li>
+					<name>Simple Life</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>0.7</volume>
+				</li>
+				<li>
+					<name>ArchonexusEndCredits</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>0.8</volume>
+				</li>
+				<li>
+					<name>Space Junk</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>0.99</volume>
+				</li>
+				<li>
+					<name>Bramble Blast</name>
+					<isTense>True</isTense>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>0.7</volume>
+				</li>
+				<li>
+					<name>String Theory</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>1</volume>
+				</li>
+				<li>
+					<name>Dont Freeze Up</name>
+					<isTense>True</isTense>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>1</volume>
+				</li>
+				<li>
+					<name>These Lands</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>1</volume>
+				</li>
+				<li>
+					<name>Shadow Work</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>1</volume>
+				</li>
+				<li>
+					<name>Noodle Mirage b</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>1</volume>
+				</li>
+				<li>
+					<name>Block Universe</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>1.1</volume>
+				</li>
+				<li>
+					<name>Barnstar</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>0.99</volume>
+				</li>
+				<li>
+					<name>Fealty</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>1.1</volume>
+				</li>
+				<li>
+					<name>Noodle Planetfall c</name>
+					<isDay>True</isDay>
+					<volume>0.65</volume>
+				</li>
+				<li>
+					<name>Jovian Cycle</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>1.02</volume>
+				</li>
+				<li>
+					<name>Terraformer</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>0.7</volume>
+				</li>
+				<li>
+					<name>Inferno Shaman</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<isSpring>False</isSpring>
+					<isAutumn>False</isAutumn>
+					<isWinter>False</isWinter>
+					<isPermaSummer>False</isPermaSummer>
+					<isPermaWinter>False</isPermaWinter>
+				</li>
+				<li>
+					<name>Noodle Mirage c</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>1</volume>
+				</li>
+				<li>
+					<name>Noodle Starscape a</name>
+					<isNight>True</isNight>
+					<volume>1</volume>
+				</li>
+				<li>
+					<name>Cruel World</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>0.7</volume>
+				</li>
+				<li>
+					<name>Code Red</name>
+					<isTense>True</isTense>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>0.7</volume>
+				</li>
+				<li>
+					<name>One Can Dream to Fly</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>0.6</volume>
+				</li>
+				<li>
+					<name>Honor</name>
+					<isTense>True</isTense>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>0.7</volume>
+				</li>
+				<li>
+					<name>My Friend</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<isWinter>False</isWinter>
+					<volume>0.7</volume>
+				</li>
+				<li>
+					<name>Death Pall Rising</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>1</volume>
+				</li>
+				<li>
+					<name>Mind Map</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>1</volume>
+				</li>
+				<li>
+					<name>Noodle Mirage d</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>1</volume>
+				</li>
+				<li>
+					<name>Anomaly End Credits</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>1.05</volume>
+				</li>
+				<li>
+					<name>I Like It Here</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>1.03</volume>
+					<hasChangedTenseMode>True</hasChangedTenseMode>
+				</li>
+				<li>
+					<name>Post Simian</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>0.7</volume>
+				</li>
+				<li>
+					<name>Ivy Shaman</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<isSummer>False</isSummer>
+					<isAutumn>False</isAutumn>
+					<isWinter>False</isWinter>
+					<isPermaSummer>False</isPermaSummer>
+					<isPermaWinter>False</isPermaWinter>
+				</li>
+				<li>
+					<name>United</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>0.7</volume>
+				</li>
+				<li>
+					<name>VE Rimworld - DivineInferno</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>0.8</volume>
+				</li>
+				<li>
+					<name>Slings And Sniper Rifles</name>
+					<isTense>True</isTense>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>0.7</volume>
+				</li>
+				<li>
+					<name>Here It Comes</name>
+					<isTense>True</isTense>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>1</volume>
+				</li>
+				<li>
+					<name>Noodle Planetfall e</name>
+					<isDay>True</isDay>
+					<volume>0.65</volume>
+				</li>
+				<li>
+					<name>Meditate</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>1</volume>
+				</li>
+				<li>
+					<name>Entry Ambience Full</name>
+					<isDay>True</isDay>
+					<isNight>True</isNight>
+					<volume>0.9</volume>
+				</li>
+			</values>
+		</songOverrideDict>
+		<peaceSongInterval>0~0</peaceSongInterval>
+		<tenseSongInterval>0~0</tenseSongInterval>
+		<widgetBackgroundOpacity>0</widgetBackgroundOpacity>
+		<shouldUseWidgetCompactMode>True</shouldUseWidgetCompactMode>
+	</ModSettings>
+</SettingsBlock>

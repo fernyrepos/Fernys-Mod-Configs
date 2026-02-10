@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="MusicManager.Settings">
+		<locked>False</locked>
+		<position>(108.5, 176.0)</position>
+		<anchor>TopLeft</anchor>
+	</ModSettings>
+</SettingsBlock>

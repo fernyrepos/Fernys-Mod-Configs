@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="RandomStartMod.RandomStartSettings">
+		<openedSettings>True</openedSettings>
+		<planetCoverage>0.5</planetCoverage>
+		<disabledStorytellers />
+		<disabledScenarios>
+			<li>Tutorial</li>
+		</disabledScenarios>
+		<factionsAlwaysAdd>
+			<li>Ancients</li>
+			<li>AncientsHostile</li>
+			<li>Mechanoid</li>
+			<li>Insect</li>
+			<li>Empire</li>
+			<li>HoraxCult</li>
+			<li>Entities</li>
+			<li>VFEE_Deserters</li>
+		</factionsAlwaysAdd>
+		<factionsRandomlyAdd>
+			<li>OutlanderCivil</li>
+			<li>OutlanderRough</li>
+			<li>TribeCivil</li>
+			<li>TribeRough</li>
+			<li>TribeSavage</li>
+			<li>Pirate</li>
+			<li>Empire</li>
+			<li>CannibalPirate</li>
+			<li>NudistTribe</li>
+			<li>TribeCannibal</li>
+			<li>TribeRoughNeanderthal</li>
+			<li>PirateYttakin</li>
+			<li>TribeSavageImpid</li>
+			<li>OutlanderRoughPig</li>
+			<li>PirateWaster</li>
+			<li>Sanguophages</li>
+		</factionsRandomlyAdd>
+		<studyEfficiencyFactor>1</studyEfficiencyFactor>
+		<enableRandomCustomXenotypes>True</enableRandomCustomXenotypes>
+	</ModSettings>
+</SettingsBlock>

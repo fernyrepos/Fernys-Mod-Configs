@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="BLP_BottomLeftPortrait.BLP_ModSetting">
+		<BLP_DispElements>
+			<li>
+				<BLP_DispElements_Name>new pawn</BLP_DispElements_Name>
+				<BLP_DispElements_id />
+				<BLP_DispElements_Paths>
+					<li />
+				</BLP_DispElements_Paths>
+			</li>
+		</BLP_DispElements>
+	</ModSettings>
+</SettingsBlock>

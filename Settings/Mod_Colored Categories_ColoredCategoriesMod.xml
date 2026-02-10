@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="ColoredCategories.ColoredCategoriesModSettings">
+		<categoryColors>
+			<keys>
+				<li>Blueprints</li>
+			</keys>
+			<values>
+				<li>RGBA(0.392, 0.392, 1.000, 1.000)</li>
+			</values>
+		</categoryColors>
+	</ModSettings>
+</SettingsBlock>

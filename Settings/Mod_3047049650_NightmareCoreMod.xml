@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="NightmareCore.SelfMod.NightmareCoreSettings">
+		<_uniqueIDsManager IsNull="True" />
+		<_smartLog>
+			<LoggingEnabled>True</LoggingEnabled>
+			<logCategories>
+				<keys>
+					<li>Settings</li>
+					<li>Graphics</li>
+				</keys>
+				<values>
+					<li>
+						<name>Settings</name>
+						<allowedLogLevels>
+							<keys>
+								<li>
+									<id>0</id>
+								</li>
+								<li>
+									<id>1</id>
+								</li>
+								<li>
+									<id>2</id>
+								</li>
+							</keys>
+							<values>
+								<li>True</li>
+								<li>True</li>
+								<li>True</li>
+							</values>
+						</allowedLogLevels>
+					</li>
+					<li>
+						<name>Graphics</name>
+						<allowedLogLevels>
+							<keys>
+								<li>
+									<id>0</id>
+								</li>
+								<li>
+									<id>1</id>
+								</li>
+								<li>
+									<id>2</id>
+								</li>
+							</keys>
+							<values>
+								<li>True</li>
+								<li>True</li>
+								<li>True</li>
+							</values>
+						</allowedLogLevels>
+					</li>
+				</values>
+			</logCategories>
+		</_smartLog>
+		<displayableItemSettings>
+			<removeDisplayableItemRestrictions>
+				<labelKey>NCore_Settings_DisplayableItems_AllowAllItems</labelKey>
+				<tipKey>NCore_Settings_DisplayableItems_AllowAllItems_Tip</tipKey>
+				<currentValue>True</currentValue>
+			</removeDisplayableItemRestrictions>
+			<hasReadTheDisplayableItemRestrictionWarning>True</hasReadTheDisplayableItemRestrictionWarning>
+		</displayableItemSettings>
+	</ModSettings>
+</SettingsBlock>

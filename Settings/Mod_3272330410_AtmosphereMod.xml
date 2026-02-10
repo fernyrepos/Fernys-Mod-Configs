@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="RW_PlanetAtmosphere.AtmosphereSettings">
+		<exposure>4000</exposure>
+		<ground_refract>1000</ground_refract>
+		<ground_light>10</ground_light>
+		<mie_amount>2546.01</mie_amount>
+		<mie_absorb>1110</mie_absorb>
+		<deltaAHLW_L>8000</deltaAHLW_L>
+		<lengthAHLW_L>1000</lengthAHLW_L>
+		<deltaAHLW_W>4000</deltaAHLW_W>
+		<lengthAHLW_W>1000</lengthAHLW_W>
+		<H_Reayleigh>125.56</H_Reayleigh>
+		<H_Mie>31.39</H_Mie>
+		<H_OZone>392.38</H_OZone>
+		<D_OZone>235.43</D_OZone>
+		<translucentLUTSize>(16000.0, 16000.0)</translucentLUTSize>
+		<mie_eccentricity>(618.0, 618.0, 618.0, 618.0)</mie_eccentricity>
+		<reayleighScatterFactor>(294.9, 802.5, 1977.2, 7453.9)</reayleighScatterFactor>
+		<OZoneAbsorbFactor>(0.0, 0.0, 0.0, 4077.7)</OZoneAbsorbFactor>
+		<SunColor>(1000.0, 1000.0, 1000.0, 0.0)</SunColor>
+		<scatterLUTSize>(8000.0, 2000.0, 2000.0, 1000.0)</scatterLUTSize>
+		<cloudTexPath />
+		<cloudTexValue>
+			<li>(1.0, 0.0, 0.5, 0.1)</li>
+		</cloudTexValue>
+	</ModSettings>
+</SettingsBlock>

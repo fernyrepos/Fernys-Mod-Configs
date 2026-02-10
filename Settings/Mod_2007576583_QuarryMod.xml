@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Quarry.QuarrySettings">
+		<QRY_mineTicksVariance>4050</QRY_mineTicksVariance>
+		<QRY_OreDictionary>
+			<li>
+				<thingDef>Steel</thingDef>
+				<count>112</count>
+			</li>
+			<li>
+				<thingDef>Silver</thingDef>
+				<count>3</count>
+			</li>
+			<li>
+				<thingDef>Gold</thingDef>
+				<count>3</count>
+			</li>
+			<li>
+				<thingDef>Uranium</thingDef>
+				<count>8</count>
+			</li>
+			<li>
+				<thingDef>Plasteel</thingDef>
+				<count>8</count>
+			</li>
+			<li>
+				<thingDef>Jade</thingDef>
+				<count>4</count>
+			</li>
+			<li>
+				<thingDef>VPE_Eltex</thingDef>
+			</li>
+			<li>
+				<thingDef>AA_SkySteel</thingDef>
+			</li>
+			<li>
+				<thingDef>Diamond</thingDef>
+				<count>3</count>
+			</li>
+			<li>
+				<thingDef>Ruby</thingDef>
+				<count>2</count>
+			</li>
+			<li>
+				<thingDef>Sapphire</thingDef>
+				<count>2</count>
+			</li>
+			<li>
+				<thingDef>ComponentIndustrial</thingDef>
+			</li>
+		</QRY_OreDictionary>
+	</ModSettings>
+</SettingsBlock>

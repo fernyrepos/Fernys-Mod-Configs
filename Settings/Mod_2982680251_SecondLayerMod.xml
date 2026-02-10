@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="DoubleGraphicLayer.SecondLayerSettings">
+		<DoubleGraphicLayer_ShowGizmo>False</DoubleGraphicLayer_ShowGizmo>
+		<DoubleGraphicLayer_DefaultToggle>False</DoubleGraphicLayer_DefaultToggle>
+	</ModSettings>
+</SettingsBlock>

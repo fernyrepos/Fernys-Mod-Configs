@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="ShellaBackgrounds.ShellaBackgroundSettings">
+		<ImagePath>
+			<keys>
+				<li>Shella_Royalty</li>
+				<li>Shella_Ideology</li>
+				<li>Shella_Biotech</li>
+				<li>Shella_Anomaly</li>
+				<li>Shella_Rabbie_Dragonian</li>
+				<li>Shella_Mincho_Moyo</li>
+				<li>Shella_Kiiro_Miho</li>
+				<li>Shella_Kurin_Ratkin</li>
+				<li>Shella_R_D_K</li>
+				<li>Shella_Milira_MoeLotl</li>
+			</keys>
+			<values>
+				<li>MenuBG_Royalty</li>
+				<li>MenuBG_Ideology</li>
+				<li>MenuBG_Biotech</li>
+				<li>MenuBG_Anomaly</li>
+				<li>MenuBG_Rab_and_Dra</li>
+				<li>MenuBG_Mincho_Moyo</li>
+				<li>MenuBG_Kiiro_Miho</li>
+				<li>MenuBG_Kurin_Ratkin</li>
+				<li>MenuBG_R&amp;D&amp;K</li>
+				<li>MenuBG_Milira_MoeLotl</li>
+			</values>
+		</ImagePath>
+		<ModIdentifiers>
+			<keys>
+				<li>Shella_Royalty</li>
+				<li>Shella_Ideology</li>
+				<li>Shella_Biotech</li>
+				<li>Shella_Anomaly</li>
+				<li>Shella_Rabbie_Dragonian</li>
+				<li>Shella_Mincho_Moyo</li>
+				<li>Shella_Kiiro_Miho</li>
+				<li>Shella_Kurin_Ratkin</li>
+				<li>Shella_R_D_K</li>
+				<li>Shella_Milira_MoeLotl</li>
+			</keys>
+			<values>
+				<li>stm.ShellaBackgrounds</li>
+				<li>stm.ShellaBackgrounds</li>
+				<li>stm.ShellaBackgrounds</li>
+				<li>stm.ShellaBackgrounds</li>
+				<li>stm.ShellaBackgrounds</li>
+				<li>stm.ShellaBackgrounds</li>
+				<li>stm.ShellaBackgrounds</li>
+				<li>stm.ShellaBackgrounds</li>
+				<li>stm.ShellaBackgrounds</li>
+				<li>stm.ShellaBackgrounds</li>
+			</values>
+		</ModIdentifiers>
+	</ModSettings>
+</SettingsBlock>

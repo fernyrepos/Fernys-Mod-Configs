@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="saveourship.Saveourships_settings">
+		<saveourship_save_tech>True</saveourship_save_tech>
+		<saveourship_save_drug>True</saveourship_save_drug>
+		<saveourship_debug_forcecrash>False</saveourship_debug_forcecrash>
+	</ModSettings>
+</SettingsBlock>

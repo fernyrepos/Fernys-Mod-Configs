@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="RPGDialog.RPGDialogSettings">
+		<position>Bottom</position>
+		<useFactionLeaderForOtherFactions>True</useFactionLeaderForOtherFactions>
+		<typingSoundVolume>0.248826295</typingSoundVolume>
+		<dialogFontSize>22</dialogFontSize>
+		<dialogButtonFontSize>18</dialogButtonFontSize>
+		<windowWidthScale>0.602709949</windowWidthScale>
+		<windowHeightScale>0.328221977</windowHeightScale>
+		<storytellerNames>
+			<keys />
+			<values />
+		</storytellerNames>
+		<customStorytellerTypingSounds>
+			<keys />
+			<values />
+		</customStorytellerTypingSounds>
+	</ModSettings>
+</SettingsBlock>

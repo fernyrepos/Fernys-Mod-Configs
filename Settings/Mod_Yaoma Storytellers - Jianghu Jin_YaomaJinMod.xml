@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="YaomaJin.YaomaJinSettings">
+		<JianghuJinDecayProbRocks>0.5</JianghuJinDecayProbRocks>
+	</ModSettings>
+</SettingsBlock>

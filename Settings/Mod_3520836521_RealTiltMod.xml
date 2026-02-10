@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="RealTiltMod.RealTiltSettings">
+		<LastSeenVersion>7.2.2</LastSeenVersion>
+		<GeneralSettings>
+			<minimalLightControl>True</minimalLightControl>
+			<baseLux>20</baseLux>
+		</GeneralSettings>
+		<CelestialSettings>
+			<AirglowBrightnessFactor>14.6779957</AirglowBrightnessFactor>
+			<SunRiseSunsetSpeed>1</SunRiseSunsetSpeed>
+		</CelestialSettings>
+		<ShadowSettings>
+			<DarkRooms>False</DarkRooms>
+			<ShadowOverlayCorrection>False</ShadowOverlayCorrection>
+		</ShadowSettings>
+		<PlantSettings>
+			<DisablePlantRest>False</DisablePlantRest>
+			<EnableRealisticPlantLighting>False</EnableRealisticPlantLighting>
+			<EnableRealisticSolarIntensity>False</EnableRealisticSolarIntensity>
+			<DisableNonSolarLightSources>False</DisableNonSolarLightSources>
+		</PlantSettings>
+		<TemperatureSettings>
+			<EnableRealisticWorldGens>False</EnableRealisticWorldGens>
+			<EnableHeatBalanceChanges>False</EnableHeatBalanceChanges>
+		</TemperatureSettings>
+		<InfoDisplaySettings>
+			<CelestialInfoBox>
+				<ShowCelestialInfoBox>False</ShowCelestialInfoBox>
+				<CelestialInfoBox_X>1720</CelestialInfoBox_X>
+				<CelestialInfoBox_Y>664</CelestialInfoBox_Y>
+			</CelestialInfoBox>
+			<RoomHeatInfo>
+				<DisplayRoomHeatInformation>False</DisplayRoomHeatInformation>
+			</RoomHeatInfo>
+		</InfoDisplaySettings>
+	</ModSettings>
+</SettingsBlock>

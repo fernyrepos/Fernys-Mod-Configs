@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="UINotIncluded.Settings">
+		<togglersOnTop>False</togglersOnTop>
+		<settingsChecked>True</settingsChecked>
+		<vanillaReadout>True</vanillaReadout>
+		<vanillaControlSpeed>True</vanillaControlSpeed>
+		<vanillaDate>True</vanillaDate>
+		<vanillaRealtime>True</vanillaRealtime>
+		<vanillaWeather>True</vanillaWeather>
+		<vanillaTemperature>True</vanillaTemperature>
+		<useDesignatorBar>False</useDesignatorBar>
+		<initializedDefaultBar>True</initializedDefaultBar>
+		<fontSize>Medium</fontSize>
+		<StyleType>UINotIncluded.BarStyle_VanillaBlue</StyleType>
+		<hiddenDesignations>
+			<li>RimWorld.Designator_PaintBuilding</li>
+			<li>RimWorld.Designator_PaintFloor</li>
+			<li>RimWorld.Designator_RemovePaint</li>
+			<li>RimWorld.Designator_PlanAdd</li>
+			<li>RimWorld.Designator_PlanRemove</li>
+			<li>KCSG.Designator_ExportToXml</li>
+			<li>KCSG.Designator_ExportToXmlFromArea</li>
+			<li>MedievalOverhaul.Designator_GatherIce</li>
+			<li>SaveOurShip2.Designator_RestoreHull</li>
+			<li>VFESecurity.Designator_RearmTrap</li>
+			<li>AlteredCarbon.Designator_ExtractStack</li>
+			<li>Shoo.Designator_Shoo</li>
+			<li>MultiReinstall.Designator_SelectToMultiReinstall</li>
+			<li>DubRoss.Designator_PaintFixtures</li>
+			<li>RimWorld.Designator_Build</li>
+		</hiddenDesignations>
+		<leftDesignations>
+			<li>RimWorld.Designator_Forbid</li>
+			<li>RimWorld.Designator_Uninstall</li>
+			<li>RimWorld.Designator_Unforbid</li>
+			<li>RimWorld.Designator_Claim</li>
+		</leftDesignations>
+		<mainDesignations>
+			<li>RimWorld.Designator_Mine</li>
+			<li>RimWorld.Designator_PlantsHarvestWood</li>
+			<li>RimWorld.Designator_PlantsHarvest</li>
+			<li>RimWorld.Designator_Cancel</li>
+			<li>RimWorld.Designator_Deconstruct</li>
+		</mainDesignations>
+		<rightDesignations>
+			<li>RimWorld.Designator_Haul</li>
+			<li>RimWorld.Designator_SmoothSurface</li>
+			<li>RimWorld.Designator_Slaughter</li>
+			<li>RimWorld.Designator_PlantsCut</li>
+			<li>RimWorld.Designator_Hunt</li>
+			<li>RimWorld.Designator_Tame</li>
+		</rightDesignations>
+		<top />
+		<bottom>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>MintMenus</defName>
+				<label>Mint menus</label>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>MintResearch</defName>
+				<label>Mint research</label>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>MintDesignators</defName>
+				<label>Mint designators</label>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>Architect</defName>
+				<iconPath>UI/Buttons/MainButtons/IconArchitect</iconPath>
+				<label>Architect</label>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>Work</defName>
+				<iconPath>UI/Buttons/MainButtons/IconWork</iconPath>
+				<label>Work</label>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>Schedule</defName>
+				<iconPath>UI/Buttons/MainButtons/IconSchedule</iconPath>
+				<label>Schedule</label>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>Assign</defName>
+				<iconPath>UI/Buttons/MainButtons/IconAssign</iconPath>
+				<label>Assign</label>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>Animals</defName>
+				<iconPath>UI/Buttons/MainButtons/IconAnimals</iconPath>
+				<label>Animals</label>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>Mechs</defName>
+				<iconPath>UI/Buttons/MainButtons/Mechs</iconPath>
+				<label>Mechs</label>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>Wildlife</defName>
+				<iconPath>UI/Buttons/MainButtons/IconWildlife</iconPath>
+				<label>Wildlife</label>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>GuardingP_GuardTab</defName>
+				<iconPath>GuardTabIcon/Shield</iconPath>
+				<label>Guards</label>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>Guests</defName>
+				<iconPath>UI/Buttons/MainButtons/Hospitality</iconPath>
+				<label>Guests</label>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>Research</defName>
+				<iconPath>UI/Buttons/MainButtons/IconResearch</iconPath>
+				<label>Research</label>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>CM_Semi_Random_Research_MainButton_Next_Research</defName>
+				<iconPath>UI/Buttons/MainButtons/IconResearch</iconPath>
+				<label>Research</label>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>Quests</defName>
+				<iconPath>UI/Buttons/MainButtons/IconQuests</iconPath>
+				<label>Quests</label>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>SW_Warrants</defName>
+				<iconPath>UI/Warrants/TargetWarrants</iconPath>
+				<label>Warrants</label>
+				<minimized>True</minimized>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>World</defName>
+				<iconPath>UI/Buttons/MainButtons/IconWorld</iconPath>
+				<label>World</label>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>WFS_TradeStock</defName>
+				<iconPath>UI/shop</iconPath>
+				<label>Trade stock</label>
+				<minimized>True</minimized>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>RimJournal</defName>
+				<iconPath>Journal</iconPath>
+				<label>Journal</label>
+				<minimized>True</minimized>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>VFEE_Royalty</defName>
+				<iconPath>MenuButton/IconRoyalty</iconPath>
+				<label>Royalty</label>
+				<minimized>True</minimized>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>DubsOptimizer</defName>
+				<iconPath>UI/Buttons/MainButtons/DubsOptimizer</iconPath>
+				<label>Dubs Performance Analyzer</label>
+				<minimized>True</minimized>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>RocketWindow</defName>
+				<iconPath>UI/Buttons/MainButtons/RocketMan</iconPath>
+				<label>RocketMan</label>
+				<minimized>True</minimized>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>History</defName>
+				<iconPath>UI/Buttons/MainButtons/IconHistory</iconPath>
+				<label>History</label>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>Factions</defName>
+				<iconPath>UI/Buttons/MainButtons/IconFactions</iconPath>
+				<label>Factions</label>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>Ideos</defName>
+				<iconPath>UI/Buttons/MainButtons/Ideoligions</iconPath>
+				<label>Ideoligions</label>
+				<minimized>True</minimized>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>PaintShop</defName>
+				<iconPath>JOP/PaintBrush</iconPath>
+				<label>Dubs Paint Shop</label>
+				<minimized>True</minimized>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>NLFaceSelectTab</defName>
+				<iconPath>UI/NL_FA_MainTab</iconPath>
+				<label>NLFaceSelectTab</label>
+				<minimized>True</minimized>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>MintBillMenu</defName>
+				<iconPath>Mint/UI/Global_bills</iconPath>
+				<label>Mint bill menu</label>
+				<minimized>True</minimized>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>MintGearMenu</defName>
+				<iconPath>Mint/UI/Parka</iconPath>
+				<label>Mint gear menu</label>
+				<minimized>True</minimized>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>XmlExtensions_MainButton_ModSettings</defName>
+				<iconPath>UI/Buttons/MainButtons/MainButton_ModSettings</iconPath>
+				<label>Mod Settings</label>
+				<minimized>True</minimized>
+			</li>
+			<li Class="UINotIncluded.Widget.Configs.ButtonConfig">
+				<defName>Menu</defName>
+				<iconPath>UI/Buttons/MainButtons/IconMenu</iconPath>
+				<label>Menu</label>
+			</li>
+		</bottom>
+		<lastVersion>1.1.8947.24741</lastVersion>
+		<barsHeight>35.09615</barsHeight>
+	</ModSettings>
+</SettingsBlock>

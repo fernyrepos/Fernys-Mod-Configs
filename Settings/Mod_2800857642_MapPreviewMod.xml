@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="MapPreview.MapPreviewSettings">
+		<PreviewWindowPos>(1470.0, 177.0)</PreviewWindowPos>
+		<ToolbarWindowPos>(1620.0, 116.0)</ToolbarWindowPos>
+	</ModSettings>
+</SettingsBlock>

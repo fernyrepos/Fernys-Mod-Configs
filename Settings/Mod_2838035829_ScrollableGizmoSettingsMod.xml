@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="ScrollableGizmos.ScrollableGizmoSettings">
+		<enabled>True</enabled>
+		<showScrollBar>True</showScrollBar>
+		<outHeight>260</outHeight>
+		<outWidthOffset>-16</outWidthOffset>
+		<scrollSpeed>13.33</scrollSpeed>
+		<doFixVerticalScrollMouseWheel>True</doFixVerticalScrollMouseWheel>
+		<doFixVerticalScrollClickAndDrag>True</doFixVerticalScrollClickAndDrag>
+		<drawBackground>True</drawBackground>
+		<startScrollAtBottom>True</startScrollAtBottom>
+	</ModSettings>
+</SettingsBlock>

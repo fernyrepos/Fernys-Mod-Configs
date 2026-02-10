@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="MUR_RoofRemovalByCollapse.RoofRemovalSettings">
+		<depthSearchRange>25</depthSearchRange>
+		<collapsedRocksHP>5000</collapsedRocksHP>
+		<chanceNothing>93</chanceNothing>
+		<chanceChunk>6</chanceChunk>
+		<chanceSteel>1E-06</chanceSteel>
+		<chanceSilver>1E-05</chanceSilver>
+		<chanceGold>7.1E-05</chanceGold>
+		<chancePlasteel>7.1E-05</chancePlasteel>
+		<chanceComponent>7.1E-05</chanceComponent>
+		<chanceJade>7.1E-05</chanceJade>
+		<chanceUranium>3.55E-05</chanceUranium>
+	</ModSettings>
+</SettingsBlock>

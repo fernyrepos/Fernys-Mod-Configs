@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="ScheduleClock.ScheduleClockMod+ScheduleClockModSettings">
+		<Enabled>True</Enabled>
+		<LineThickness>3</LineThickness>
+		<LineColor>RGBA(0.800, 0.800, 0.800, 1.000)</LineColor>
+	</ModSettings>
+</SettingsBlock>

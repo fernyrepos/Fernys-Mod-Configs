@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="WhileYoureUp.Mod+Settings">
+		<HaulBeforeCarry_Bills_NeedsInitForCs>False</HaulBeforeCarry_Bills_NeedsInitForCs>
+		<hbcBuildingFilter>
+			<disallowedSpecialFilters />
+			<allowedDefs>
+				<li>Shelf</li>
+				<li>ShelfSmall</li>
+				<li>Hopper</li>
+				<li>Shelf_WeaponRack</li>
+				<li>QRY_Platform</li>
+				<li>VFE_Plinth</li>
+				<li>Shelf_RepairRack</li>
+				<li>VFES_AmmoCrate</li>
+			</allowedDefs>
+			<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+			<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+		</hbcBuildingFilter>
+		<opportunityBuildingFilter>
+			<disallowedSpecialFilters />
+			<allowedDefs>
+				<li>Shelf</li>
+				<li>ShelfSmall</li>
+				<li>Hopper</li>
+				<li>Shelf_WeaponRack</li>
+				<li>VCHE_ChemfuelTap</li>
+				<li>VCHE_ChemfuelDrain</li>
+				<li>VCHE_DeepchemTap</li>
+				<li>VCHE_DeepchemDrain</li>
+				<li>VRecyclingE_WasteCrate</li>
+				<li>QRY_Platform</li>
+				<li>VREA_NeutroTap</li>
+				<li>VREA_NeutroDrain</li>
+				<li>VFEM_HeavyHopper</li>
+				<li>VFE_MechanoidLiquidFreezer</li>
+				<li>VFEA_SuperNaniteContainment</li>
+				<li>VFE_Plinth</li>
+				<li>VRE_HemogenTap</li>
+				<li>VRE_HemogenDrain</li>
+				<li>VNPE_NutrientPasteFeeder</li>
+				<li>Shelf_RepairRack</li>
+				<li>VFES_AmmoCrate</li>
+				<li>RimNauts2_DeliveryCannon</li>
+				<li>AG_AncientShelf</li>
+				<li>VendingMachine</li>
+				<li>MedievalVendingMachine</li>
+			</allowedDefs>
+			<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+			<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+		</opportunityBuildingFilter>
+	</ModSettings>
+</SettingsBlock>

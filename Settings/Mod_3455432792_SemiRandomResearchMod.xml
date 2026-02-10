@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="CM_Semi_Random_Research.SemiRandomResearchModSettings">
+		<allowManualReroll>Once</allowManualReroll>
+		<availableProjectCount>10</availableProjectCount>
+		<maxProjectCount>10</maxProjectCount>
+		<progressAddsChoice>ReplaceChoice</progressAddsChoice>
+		<restrictToFactionTechLevel>True</restrictToFactionTechLevel>
+		<experimentalAnomalySupport>True</experimentalAnomalySupport>
+	</ModSettings>
+</SettingsBlock>

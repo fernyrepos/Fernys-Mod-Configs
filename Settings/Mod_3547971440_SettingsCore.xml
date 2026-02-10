@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="RPGDialog.SettingsData">
+		<position>Bottom</position>
+		<typingSoundEnabled>False</typingSoundEnabled>
+		<customPortraitMappings>
+			<keys />
+			<values />
+		</customPortraitMappings>
+		<dialogFontSize>19</dialogFontSize>
+		<windowWidthScale>0.614084542</windowWidthScale>
+		<storytellerNames>
+			<keys />
+			<values />
+		</storytellerNames>
+		<customStorytellerTypingSounds>
+			<keys />
+			<values />
+		</customStorytellerTypingSounds>
+	</ModSettings>
+</SettingsBlock>

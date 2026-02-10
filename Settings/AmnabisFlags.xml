@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<FlagPresets>
+	<meta>
+		<gameVersion>1.5.4052 rev1009</gameVersion>
+		<modIds>
+			<li>brrainz.harmony</li>
+			<li>ludeon.rimworld</li>
+			<li>ludeon.rimworld.royalty</li>
+			<li>ludeon.rimworld.ideology</li>
+			<li>ludeon.rimworld.biotech</li>
+			<li>oskarpotocki.vanillafactionsexpanded.core</li>
+			<li>vanillaexpanded.vfepropsanddecor</li>
+			<li>mingtuwuxiang.fishingdecorative</li>
+			<li>ferny.propscore</li>
+			<li>ferny.propsformusfishingdecorative</li>
+			<li>imranfish.xmlextensions</li>
+			<li>majestic.framework</li>
+			<li>majestic.cmt.pack</li>
+			<li>brrainz.cameraplus</li>
+			<li>mlie.amnabisflags</li>
+		</modIds>
+		<modSteamIds>
+			<li>0</li>
+			<li>0</li>
+			<li>1149640</li>
+			<li>1392840</li>
+			<li>1826140</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>867467808</li>
+			<li>0</li>
+		</modSteamIds>
+		<modNames>
+			<li>Harmony</li>
+			<li>Core</li>
+			<li>Royalty</li>
+			<li>Ideology</li>
+			<li>Biotech</li>
+			<li>Vanilla Expanded Framework</li>
+			<li>Vanilla Furniture Expanded - Props and Decor</li>
+			<li>[MUS]捕鱼装饰 FishingDecorative</li>
+			<li>Ferny's Props Core</li>
+			<li>Prop Integration for MUS FishingDecorative</li>
+			<li>XML Extensions</li>
+			<li>Majestic Foliage Framework[HH]</li>
+			<li>Majestic Foliage - Djeeshka's CMT Retexture</li>
+			<li>Camera+</li>
+			<li>Amnabi's Flags (Continued)</li>
+		</modNames>
+	</meta>
+	<presets />
+</FlagPresets>

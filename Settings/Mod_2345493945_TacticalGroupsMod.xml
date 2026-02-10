@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="TacticalGroups.TacticalGroupsSettings">
+		<DisplayColorBars>True</DisplayColorBars>
+		<WeaponPlacementOffset>196</WeaponPlacementOffset>
+		<WeaponShowMode>Always</WeaponShowMode>
+		<WeaponShowScale>0.7882022</WeaponShowScale>
+		<AllGroupPresetsSaveable IsNull="True" />
+	</ModSettings>
+</SettingsBlock>

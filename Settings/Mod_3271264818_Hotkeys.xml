@@ -1,0 +1,737 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Hotkeys.Hotkeys_Settings">
+		<Key_Modifiers>
+			<keys>
+				<li>MapDolly_Up</li>
+				<li>MapDolly_Down</li>
+				<li>MapDolly_Left</li>
+				<li>MapDolly_Right</li>
+				<li>MapZoom_In</li>
+				<li>MapZoom_Out</li>
+				<li>Accept</li>
+				<li>Cancel</li>
+				<li>TakeScreenshot</li>
+				<li>ToggleScreenshotMode</li>
+				<li>SelectNextInCell</li>
+				<li>TogglePause</li>
+				<li>TimeSpeed_Normal</li>
+				<li>TimeSpeed_Fast</li>
+				<li>TimeSpeed_Superfast</li>
+				<li>TimeSpeed_Ultrafast</li>
+				<li>TimeSpeed_Slower</li>
+				<li>TimeSpeed_Faster</li>
+				<li>PreviousColonist</li>
+				<li>NextColonist</li>
+				<li>ToggleRoomStatsDisplay</li>
+				<li>ToggleBeautyDisplay</li>
+				<li>OpenMapSearch</li>
+				<li>ShowCellInspector</li>
+				<li>ShowEyedropper</li>
+				<li>Misc1</li>
+				<li>Misc2</li>
+				<li>Misc3</li>
+				<li>Misc4</li>
+				<li>Misc5</li>
+				<li>Misc6</li>
+				<li>Misc7</li>
+				<li>Misc8</li>
+				<li>Misc9</li>
+				<li>Misc10</li>
+				<li>Misc11</li>
+				<li>Misc12</li>
+				<li>Command_TogglePower</li>
+				<li>Command_ItemForbid</li>
+				<li>Command_ColonistDraft</li>
+				<li>Designator_Cancel</li>
+				<li>Designator_Deconstruct</li>
+				<li>Designator_RotateLeft</li>
+				<li>Designator_RotateRight</li>
+				<li>ModifierIncrement_10x</li>
+				<li>ModifierIncrement_100x</li>
+				<li>QueueOrder</li>
+				<li>Dev_TickOnce</li>
+				<li>Dev_ToggleGodMode</li>
+				<li>Dev_ToggleDebugLog</li>
+				<li>Dev_ToggleDebugActionsMenu</li>
+				<li>Dev_ToggleDebugLogMenu</li>
+				<li>Dev_ToggleDebugInspector</li>
+				<li>Dev_ToggleDebugSettingsMenu</li>
+				<li>Dev_ToggleDevPalette</li>
+				<li>Dev_ChangeSelectedDebugAction</li>
+				<li>VF_RestartGame</li>
+				<li>VF_QuickStartMenu</li>
+				<li>VF_DebugSettings</li>
+				<li>PublishLogs</li>
+				<li>OpenLogFile</li>
+				<li>RestartRimworld</li>
+				<li>HLOpenModSettings</li>
+				<li>HLOpenUpdateNews</li>
+				<li>VFE_Dev_Restart</li>
+				<li>TG_SlaveMenu</li>
+				<li>OpenLastLetter</li>
+				<li>PawnEditor_OpenEditor</li>
+				<li>MintMenus_BuildMenu</li>
+				<li>MintMenus_MintResearch</li>
+				<li>MintMenus_MintWheel</li>
+				<li>MintMenus_MintBillMenu</li>
+				<li>MintMenus_PinningHide</li>
+				<li>MintMenus_MintGearMenu</li>
+				<li>ToggleseeThroughTrees</li>
+				<li>ShowDetails</li>
+				<li>GroundTargeterKey</li>
+				<li>Relocate</li>
+				<li>ToggleElectricGrid</li>
+				<li>DubsOptimizerKey</li>
+				<li>DubsOptimizerRestartKey</li>
+				<li>dpa_ToggleAlertBlock</li>
+				<li>PaintingTool</li>
+				<li>NCDMHK_DevelopmentModeToggle</li>
+				<li>DefensivePositionGizmo</li>
+				<li>DPSelectAllColonists</li>
+				<li>DPSendAllColonists</li>
+				<li>DPUndraftAll</li>
+				<li>DPSquad1</li>
+				<li>DPSquad2</li>
+				<li>DPSquad3</li>
+				<li>DPSquad4</li>
+				<li>DPSquad5</li>
+				<li>DPSquad6</li>
+				<li>DPSquad7</li>
+				<li>DPSquad8</li>
+				<li>DPSquad9</li>
+				<li>TMB_ToggleAutoDesignatePlantsCutMode</li>
+				<li>RocketKeyBindingDisable</li>
+				<li>RocketKeyToggleAlerts</li>
+				<li>RocketKeyToggleDebugging</li>
+				<li>RocketKeyToggleForcedSlowdowns</li>
+				<li>MainTab_Architect</li>
+				<li>MainTab_Work</li>
+				<li>MainTab_Schedule</li>
+				<li>MainTab_Assign</li>
+				<li>MainTab_Animals</li>
+				<li>MainTab_Wildlife</li>
+				<li>MainTab_Research</li>
+				<li>MainTab_Quests</li>
+				<li>MainTab_World</li>
+				<li>MainTab_History</li>
+				<li>Hotkeys_ArchitectHotkeyOrders</li>
+				<li>Hotkeys_ArchitectHotkeyZone</li>
+				<li>Hotkeys_ArchitectHotkeyStructure</li>
+				<li>Hotkeys_ArchitectHotkeyProduction</li>
+				<li>Hotkeys_ArchitectHotkeyFurniture</li>
+				<li>Hotkeys_ArchitectHotkeySecurity</li>
+				<li>Hotkeys_ArchitectHotkeyMisc</li>
+				<li>Hotkeys_ArchitectHotkeyFloors</li>
+				<li>Hotkeys_ArchitectHotkeyJoy</li>
+				<li>Hotkeys_ArchitectHotkeyShip</li>
+				<li>Hotkeys_ArchitectHotkeyTemperature</li>
+				<li>Hotkeys_ArchitectHotkeyIdeology</li>
+				<li>Hotkeys_ArchitectHotkeyBiotech</li>
+				<li>Hotkeys_ArchitectHotkeyAnomaly</li>
+				<li>Hotkeys_ArchitectHotkeyVF_Vehicles</li>
+				<li>Hotkeys_ArchitectHotkeyVFE_Factory</li>
+				<li>Hotkeys_ArchitectHotkeyHygiene</li>
+				<li>Hotkeys_ArchitectHotkeyVFEI2_Insectoids</li>
+				<li>Hotkeys_ArchitectHotkeyVCHE_PipeNetworks</li>
+				<li>Hotkeys_ArchitectHotkeyDark_Signs</li>
+				<li>Hotkeys_ArchitectHotkeyIntelligences</li>
+				<li>Hotkeys_ArchitectHotkeyFerny_Hosting</li>
+				<li>Hotkeys_ArchitectHotkeyFerny_Outreach</li>
+				<li>Hotkeys_ArchitectHotkeyPlanning</li>
+				<li>Hotkeys_ArchitectHotkeyFerny_Lighting</li>
+				<li>Hotkeys_ArchitectHotkeyFerny_Environment</li>
+				<li>Hotkeys_ArchitectHotkeyPower</li>
+				<li>Hotkeys_ArchitectHotkeyBlueprints</li>
+				<li>Hotkeys_ArchitectHotkeyFerny_Animals</li>
+				<li>Hotkeys_ArchitectHotkeyASFstorage</li>
+				<li>Hotkeys_GizmoAssigner</li>
+			</keys>
+			<values>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+				<li>
+					<KeyBindModsA />
+					<KeyBindModsB />
+				</li>
+			</values>
+		</Key_Modifiers>
+		<Direct_Keys>
+			<keys />
+			<values />
+		</Direct_Keys>
+		<Gizmo_Keys>
+			<keys />
+			<values />
+		</Gizmo_Keys>
+		<Enable_Architect_Hotkeys>True</Enable_Architect_Hotkeys>
+		<Enable_Command_Hotkeys>True</Enable_Command_Hotkeys>
+		<Enable_Multi_Keybindings>True</Enable_Multi_Keybindings>
+	</ModSettings>
+</SettingsBlock>

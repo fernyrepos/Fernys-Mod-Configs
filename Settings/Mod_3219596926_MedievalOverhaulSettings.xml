@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="MedievalOverhaul.MedievalOverhaul_Settings">
+		<hornetNest>True</hornetNest>
+		<settingMode>
+			<keys />
+			<values />
+		</settingMode>
+	</ModSettings>
+</SettingsBlock>

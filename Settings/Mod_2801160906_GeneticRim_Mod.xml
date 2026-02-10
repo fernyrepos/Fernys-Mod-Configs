@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="GeneticRim.GeneticRim_Settings">
+		<GR_QuestRate>2</GR_QuestRate>
+		<GR_RaidsRate>5</GR_RaidsRate>
+	</ModSettings>
+</SettingsBlock>

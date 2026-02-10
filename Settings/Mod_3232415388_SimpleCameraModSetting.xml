@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="SimpleCameraSetting.ModSetting">
+		<zoomSpeed>3.956824</zoomSpeed>
+		<followCameraKey>
+			<label>Follow Camera Key</label>
+			<key>Backspace</key>
+		</followCameraKey>
+	</ModSettings>
+</SettingsBlock>

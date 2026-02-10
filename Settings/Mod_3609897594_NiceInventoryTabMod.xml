@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="NiceInventoryTab.Settings">
+		<TabWidth>596</TabWidth>
+		<EnableAutoWear>False</EnableAutoWear>
+	</ModSettings>
+</SettingsBlock>

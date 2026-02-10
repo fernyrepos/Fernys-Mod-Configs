@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="ShowMeYourHands.ShowMeYourHandsModSettings">
+		<ManualMainHandPositions>
+			<keys />
+			<values />
+		</ManualMainHandPositions>
+		<ManualOffHandPositions>
+			<keys />
+			<values />
+		</ManualOffHandPositions>
+	</ModSettings>
+</SettingsBlock>

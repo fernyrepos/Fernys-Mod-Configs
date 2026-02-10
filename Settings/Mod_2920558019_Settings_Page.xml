@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Universum.Settings">
+		<saved_settings>
+			<keys>
+				<li>universum.main_loop_parallelization</li>
+				<li>universum.labels</li>
+				<li>universum.trails</li>
+				<li>universum.vacuum_decompression</li>
+				<li>universum.vacuum_suffocation</li>
+				<li>universum.temperature</li>
+				<li>universum.ocean_masking</li>
+				<li>universum.vacuum</li>
+				<li>universum.vacuum_overlay</li>
+				<li>universum.remove_shadows</li>
+				<li>universum.disable_weather_change</li>
+				<li>universum.vacuum_decompression_protection</li>
+				<li>universum.vacuum_suffocation_protection</li>
+			</keys>
+			<values>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+			</values>
+		</saved_settings>
+		<savedtotalToSpawnGenStep>
+			<keys>
+				<li>RimNauts2_ObjectGeneration_Moons_Ocean</li>
+				<li>RimNauts2_ObjectGeneration_Moons_Barren</li>
+				<li>RimNauts2_ObjectGeneration_CrashingAsteroids</li>
+				<li>RimNauts2_ObjectGeneration_AsteroidRing</li>
+				<li>RimNauts2_ObjectGeneration_AsteroidOre</li>
+			</keys>
+			<values>
+				<li>1</li>
+				<li>1</li>
+				<li>20</li>
+				<li>3000</li>
+				<li>32</li>
+			</values>
+		</savedtotalToSpawnGenStep>
+	</ModSettings>
+</SettingsBlock>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="RealRuins.RealRuins_ModSettings">
+		<ruinsCostCap>1.000001E+09</ruinsCostCap>
+		<defaultScatterOptions>
+			<densityMultiplier>0.4359673</densityMultiplier>
+		</defaultScatterOptions>
+		<planetaryRuinsOptions />
+	</ModSettings>
+</SettingsBlock>

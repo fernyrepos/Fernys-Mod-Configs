@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="TD_Enhancement_Pack.Settings">
+		<showStopGizmo>False</showStopGizmo>
+		<showStopGizmoDrafted>False</showStopGizmoDrafted>
+		<autoOverlayBuildable>False</autoOverlayBuildable>
+		<autoOverlayTreeGrowth>False</autoOverlayTreeGrowth>
+		<showOverlayPower>False</showOverlayPower>
+		<zoneRefill>False</zoneRefill>
+		<alertNoBill>False</alertNoBill>
+		<matchGrowButton>False</matchGrowButton>
+		<showToggleLearning>False</showToggleLearning>
+		<showToggleColonists>False</showToggleColonists>
+	</ModSettings>
+</SettingsBlock>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Tacticowl.ModSettings_Tacticowl">
+		<heavyWeapons IsNull="True" />
+		<forbiddenWeapons IsNull="True" />
+		<offHanders IsNull="True" />
+		<twoHanders IsNull="True" />
+		<customRotations IsNull="True" />
+	</ModSettings>
+</SettingsBlock>

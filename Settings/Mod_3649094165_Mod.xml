@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Declutter_Main_Buttons_Bar.ModSettings">
+		<hiddenFromBarDefs>
+			<li>MintDesignators</li>
+			<li>MintResearch</li>
+			<li>MintMenus</li>
+			<li>Inspect</li>
+			<li>Timers</li>
+			<li>DMMB_PlaySettingsMenu</li>
+			<li>Schedule</li>
+			<li>AutoRituals</li>
+			<li>MF_FloorSettingButton</li>
+			<li>Assign</li>
+			<li>PE_Education</li>
+			<li>Animals</li>
+			<li>Asimov_Automatons</li>
+			<li>Mechs</li>
+			<li>GuardingP_GuardTab</li>
+			<li>CorpseTab_Corpses</li>
+			<li>Guests</li>
+			<li>Patients</li>
+			<li>OutpostManager</li>
+			<li>SW_Warrants</li>
+			<li>ToDoListButton</li>
+			<li>DrawIt_Tab</li>
+			<li>WFS_TradeStock</li>
+			<li>VFEE_Royalty</li>
+			<li>DubsOptimizer</li>
+			<li>History</li>
+			<li>PauseSettlementTab</li>
+			<li>Factions</li>
+			<li>Ideos</li>
+			<li>NLFaceSelectTab</li>
+			<li>MintGearMenu</li>
+			<li>MintBillMenu</li>
+			<li>PaintShop</li>
+			<li>ThingsExplorerButton</li>
+			<li>XmlExtensions_MainButton_ModSettings</li>
+			<li>Achievements</li>
+			<li>Research</li>
+		</hiddenFromBarDefs>
+		<favoriteDefs />
+		<blacklistedFromMenuDefs>
+			<li>MintMenus</li>
+			<li>MintResearch</li>
+			<li>MintDesignators</li>
+			<li>Timers</li>
+			<li>Architect</li>
+			<li>Work</li>
+			<li>MedicalTab</li>
+			<li>Wildlife</li>
+			<li>Research</li>
+			<li>CM_Semi_Random_Research_MainButton_Next_Research</li>
+			<li>World</li>
+			<li>Menu</li>
+		</blacklistedFromMenuDefs>
+		<dropdownConfigs />
+		<customOrderDefs />
+		<freeSizeWidths>
+			<keys />
+			<values />
+		</freeSizeWidths>
+		<freeSizeXPositions>
+			<keys />
+			<values />
+		</freeSizeXPositions>
+		<fixedButtonWidth>53.9329262</fixedButtonWidth>
+		<useSearchablePlaySettingsMenu>False</useSearchablePlaySettingsMenu>
+	</ModSettings>
+</SettingsBlock>

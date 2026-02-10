@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="K_TargetPriority_Core+K_TargetPriority_Settings">
+		<P_col>0.4367347</P_col>
+		<P_siz>0.3904762</P_siz>
+		<P_pos>0</P_pos>
+		<I_col>0.1612245</I_col>
+		<I_siz>0.3904762</I_siz>
+		<I_pos>0</I_pos>
+		<T_mrk>False</T_mrk>
+		<P_col>0</P_col>
+		<P_siz>0</P_siz>
+		<P_pos>0</P_pos>
+	</ModSettings>
+</SettingsBlock>

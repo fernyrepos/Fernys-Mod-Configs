@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="SlowerPawnTickRate.SlowerPawnTickRateSettings">
+		<applyToAnimals>True</applyToAnimals>
+		<animalTickSlowdown>6</animalTickSlowdown>
+		<applyToAllPawns>False</applyToAllPawns>
+		<showExperimental>True</showExperimental>
+	</ModSettings>
+</SettingsBlock>

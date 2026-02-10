@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Ferny's Mod Configs</name>
+	<author>ferny</author>
+	<supportedVersions>
+		<li>1.4</li>
+		<li>1.5</li>
+		<li>1.6</li>
+	</supportedVersions>
+	<packageId>ferny.modconfigs</packageId>
+	<description>
+		Ferny's mod settings. For a more cohesive rimworld.
+	</description>
+	<modDependencies>
+		<li>
+			<packageId>Garethp.ModlistConfigurator</packageId>
+			<displayName>Modlist Configurator</displayName>
+			<downloadUrl>https://steamcommunity.com/linkfilter/?url=https://github.com/Garethp/rimworld-modlist-configurator</downloadUrl>
+            <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3009304695</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+</ModMetaData>

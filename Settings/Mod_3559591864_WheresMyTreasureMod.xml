@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="WheresMyTreasure.TreasureSettings">
+		<player_choices>
+			<li>gibbet cage</li>
+			<li>cryptosleep casket</li>
+			<li>encrypted crate</li>
+			<li>ancient cryptosleep casket</li>
+		</player_choices>
+	</ModSettings>
+</SettingsBlock>

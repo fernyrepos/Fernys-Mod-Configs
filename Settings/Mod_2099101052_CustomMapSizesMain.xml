@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="CustomMapSizes.CustomMapSizesSettings">
+		<selectedMapSize>275</selectedMapSize>
+		<customMapSizeHeight>250</customMapSizeHeight>
+		<customMapSizeWidth>250</customMapSizeWidth>
+		<customMapSizeWidthBuffer>250</customMapSizeWidthBuffer>
+		<customMapSizeHeightBuffer>250</customMapSizeHeightBuffer>
+	</ModSettings>
+</SettingsBlock>

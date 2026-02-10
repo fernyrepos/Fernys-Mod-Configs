@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Configurable_Deconstruct_Percentage.DeconstructSettings">
+		<FailReturnPercent>100</FailReturnPercent>
+		<DestroyReturnPercent>100</DestroyReturnPercent>
+	</ModSettings>
+</SettingsBlock>

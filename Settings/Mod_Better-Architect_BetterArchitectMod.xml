@@ -1,0 +1,334 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="BetterArchitect.BetterArchitectSettings">
+		<menuHeight>329.694824</menuHeight>
+		<backgroundAlpha>0.423708916</backgroundAlpha>
+		<sortSettingsPerCategory>
+			<keys>
+				<li>Production</li>
+				<li>Ferny_Kitchen</li>
+				<li>Structure</li>
+				<li>Furniture</li>
+				<li>Power</li>
+				<li>Misc</li>
+				<li>Biotech</li>
+				<li>Ideology</li>
+				<li>Temperature</li>
+				<li>Joy</li>
+				<li>Floors</li>
+				<li>Ferny_Lighting</li>
+				<li>Ferny_Bedroom</li>
+				<li>Security</li>
+				<li>Ship</li>
+				<li>Anomaly</li>
+				<li>Odyssey</li>
+				<li>Ferny_PowerManagement</li>
+				<li>Ferny_PowerGeneration</li>
+				<li>Ferny_Auxiliaries</li>
+				<li>Ferny_Walls</li>
+				<li>Ferny_Doors</li>
+				<li>Ferny_Animals</li>
+				<li>Ferny_Bridges</li>
+				<li>Orders</li>
+				<li>Zone</li>
+				<li>Ferny_AnimalBedding</li>
+				<li>Ferny_Ranching</li>
+				<li>Ferny_Barricades</li>
+				<li>Ferny_Traps</li>
+				<li>Ferny_Supports</li>
+				<li>Ferny_Heating</li>
+				<li>Ferny_Cooling</li>
+				<li>ASFstorage</li>
+				<li>VF_Vehicles</li>
+				<li>Ferny_AirManagement</li>
+				<li>Ferny_Outreach</li>
+				<li>VFEI2_Insectoids</li>
+				<li>Ferny_Hosting</li>
+				<li>Ferny_Weapons</li>
+				<li>Ferny_Automation</li>
+				<li>Ferny_Farming</li>
+				<li>VCHE_PipeNetworks</li>
+				<li>Ferny_Environment</li>
+				<li>Hygiene</li>
+				<li>Ferny_Childhood</li>
+				<li>Ferny_Tables</li>
+				<li>Blueprints</li>
+				<li>DankPyon_RusticDecoration</li>
+				<li>DankPyon_RusticFurniture</li>
+				<li>DankPyon_RusticStorage</li>
+				<li>Ferny_Foundations</li>
+				<li>Ferny_FoundationalProduction</li>
+				<li>Ferny_GroundTransport</li>
+				<li>Ferny_NavalTransport</li>
+				<li>Ferny_AerialTransport</li>
+				<li>Ferny_MilitaryTransport</li>
+				<li>Ferny_Pollution</li>
+				<li>Ferny_Firefoam</li>
+				<li>GR_GeneticsTab</li>
+				<li>Ferny_ChemfuelNetwork</li>
+				<li>Ferny_CombatInfrastructure</li>
+				<li>Ferny_NeutroamineNetwork</li>
+				<li>Ferny_Seating</li>
+				<li>Ferny_Transport</li>
+				<li>Ferny_Medical</li>
+				<li>Ferny_Deathrest</li>
+				<li>Ferny_MilkPipeNetwork</li>
+				<li>Ferny_AmmunitionNetwork</li>
+				<li>Ferny_NutrientPasteNetwork</li>
+				<li>Ferny_HemogenNetwork</li>
+				<li>Ferny_TransportInfrastructure</li>
+				<li>Ferny_ArtProduction</li>
+				<li>Ferny_AnimalTravel</li>
+				<li>Ferny_ProcessingProduction</li>
+				<li>Ferny_Decorations</li>
+				<li>Ferny_Biotech</li>
+				<li>Ferny_CreativeProduction</li>
+				<li>Ferny_ColonyLocations</li>
+				<li>Ferny_GeneralStorage</li>
+				<li>Ferny_HelixienGasNetwork</li>
+				<li>Ferny_Enhancement</li>
+				<li>Ferny_ResourcesStorage</li>
+				<li>Ferny_ResearchProduction</li>
+				<li>Ferny_Production</li>
+				<li>Ferny_ProductionInfrastructure</li>
+				<li>Ferny_Androids</li>
+				<li>Ferny_Mechanoids</li>
+				<li>Ferny_World</li>
+				<li>Ferny_FoodStorage</li>
+				<li>Ferny_GearStorage</li>
+				<li>Ferny_PowerStorage</li>
+				<li>MultiFloors</li>
+				<li>AM_FLOOR</li>
+				<li>Ferny_Market</li>
+				<li>Ferny_Museum</li>
+				<li>Ferny_Aquarium</li>
+			</keys>
+			<values>
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li>
+					<sortBy>Value</sortBy>
+				</li>
+				<li />
+				<li>
+					<sortBy>RecreationPower</sortBy>
+				</li>
+				<li />
+				<li />
+				<li>
+					<sortBy>Comfort</sortBy>
+				</li>
+				<li />
+				<li />
+				<li />
+				<li />
+				<li>
+					<sortBy>TotalStorageCapacity</sortBy>
+				</li>
+				<li>
+					<sortBy>MaxPowerOutput</sortBy>
+				</li>
+				<li />
+				<li />
+				<li>
+					<ascending>False</ascending>
+				</li>
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li>
+					<sortBy>WorkToBuild</sortBy>
+				</li>
+				<li />
+				<li />
+				<li />
+				<li>
+					<sortBy>Value</sortBy>
+				</li>
+				<li />
+				<li />
+				<li>
+					<sortBy>MoveSpeed</sortBy>
+				</li>
+				<li>
+					<sortBy>Value</sortBy>
+				</li>
+				<li />
+				<li>
+					<sortBy>Value</sortBy>
+				</li>
+				<li />
+				<li />
+				<li />
+				<li>
+					<sortBy>Value</sortBy>
+					<ascending>False</ascending>
+				</li>
+				<li />
+				<li />
+				<li>
+					<sortBy>Value</sortBy>
+				</li>
+				<li>
+					<sortBy>Health</sortBy>
+				</li>
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li>
+					<sortBy>Health</sortBy>
+				</li>
+				<li>
+					<sortBy>Value</sortBy>
+				</li>
+				<li />
+				<li>
+					<sortBy>Value</sortBy>
+				</li>
+				<li />
+				<li />
+				<li />
+				<li>
+					<sortBy>CoverEffectiveness</sortBy>
+				</li>
+				<li>
+					<sortBy>Value</sortBy>
+				</li>
+				<li />
+				<li />
+				<li>
+					<sortBy>Comfort</sortBy>
+				</li>
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li>
+					<sortBy>Value</sortBy>
+				</li>
+				<li>
+					<sortBy>Beauty</sortBy>
+				</li>
+				<li />
+				<li />
+				<li />
+				<li />
+				<li>
+					<sortBy>Value</sortBy>
+				</li>
+				<li />
+				<li />
+				<li>
+					<sortBy>Value</sortBy>
+				</li>
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+			</values>
+		</sortSettingsPerCategory>
+		<groupByTechLevelPerCategory>
+			<keys>
+				<li>Joy</li>
+				<li>Ferny_AnimalBedding</li>
+				<li>Ferny_Walls</li>
+				<li>Ferny_Doors</li>
+				<li>Ferny_Lighting</li>
+				<li>Ferny_Bedroom</li>
+				<li>Anomaly</li>
+				<li>Ferny_Bridges</li>
+				<li>Ferny_Kitchen</li>
+				<li>Ferny_Auxiliaries</li>
+				<li>Ferny_Outreach</li>
+				<li>Structure</li>
+				<li>Power</li>
+				<li>Ferny_PowerGeneration</li>
+				<li>Ferny_PowerManagement</li>
+				<li>VFEI2_Insectoids</li>
+				<li>Furniture</li>
+				<li>Ferny_Environment</li>
+				<li>ASFstorage</li>
+				<li>Zone</li>
+				<li>Orders</li>
+				<li>VCHE_PipeNetworks</li>
+				<li>Production</li>
+				<li>Ferny_FoundationalProduction</li>
+				<li>Ideology</li>
+				<li>Ferny_ChemfuelNetwork</li>
+				<li>Ferny_Decorations</li>
+				<li>Ferny_ProcessingProduction</li>
+				<li>Ferny_ResourcesStorage</li>
+				<li>Ferny_Ranching</li>
+				<li>GR_GeneticsTab</li>
+				<li>Ferny_Seating</li>
+				<li>Ferny_Hosting</li>
+				<li>Ferny_Production</li>
+				<li>Hygiene</li>
+				<li>Ferny_GeneralStorage</li>
+			</keys>
+			<values>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+			</values>
+		</groupByTechLevelPerCategory>
+	</ModSettings>
+</SettingsBlock>
