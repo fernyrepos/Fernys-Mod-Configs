@@ -1,7 +1,0 @@
-HighScore=1
-PublishedFileId=3182774136
-SaveDataJSON=
-WindowHeight=568
-WindowWidth=475
-ButtonBrightness=0.4864865
-ButtonColor=C3FF6CFF

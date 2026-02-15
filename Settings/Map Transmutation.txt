@@ -1,9 +1,0 @@
-IsOngoingCustomGame=False
-score=0
-IsNewCustomGame=False
-HighScore=0
-PublishedFileId=3022984676
-SaveDataJSON=
-WindowHeight=170
-WindowWidth=390
-ShowResizeButton=True
